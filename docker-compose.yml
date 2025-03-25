@@ -9,6 +9,4 @@ services:
       - 54789:54789
     volumes:
       - ./flash-cards/subjects/$SUBJECT:/root/.config/flash-cards-application
-    env_file:
-      - .env
     
