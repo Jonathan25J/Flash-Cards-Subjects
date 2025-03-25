@@ -1,6 +1,6 @@
 # Flash Cards Subjects
 ## Introduction
-It's currently not possible to have subjects in the [Flash Card Application](https://github.com/Jonathan25J/Flash-Card-Application). It's also not coming inside the application, because the whole application needs to have a rewrite to make it happen. This is because it's poorly designed for changes inside the data architecture. This repository is a simple work-around to still have subjects inside the Flash Cards Application
+It's currently not possible to have subjects in the [Flash Card Application](https://github.com/Jonathan25J/Flash-Card-Application). It's also not coming inside the application, because the whole application needs to have a rewrite to make it happen. This is because it's poorly designed for changes inside the data architecture. This repository is a simple work-around to still have subjects inside the Flash Cards Application.
 
 ## How to use
 1. Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) or only the [Docker Engine](https://docs.docker.com/engine/)
